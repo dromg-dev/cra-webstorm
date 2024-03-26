@@ -4,6 +4,10 @@ export const User = () => {
     return(
         <div>
             <h2>User69</h2>
+            <div>
+                Main branch
+
+            </div>
         </div>
     )
 }
