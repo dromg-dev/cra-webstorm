@@ -6,7 +6,7 @@ export const User = () => {
             <h2>User69</h2>
             <div>
                 <p>Main branch</p>
-
+                <p>New branch</p>
 
             </div>
         </div>
