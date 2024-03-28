@@ -10,6 +10,7 @@ export const User = () => {
                 <p>New branch</p>
                 <p>New branch</p>
                 <p>developer/pop-up_commit</p>
+                <p>developer/pop-up_commit</p>
 
             </div>
         </div>
