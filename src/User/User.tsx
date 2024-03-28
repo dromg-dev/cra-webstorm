@@ -9,6 +9,7 @@ export const User = () => {
                 <p>New branch</p>
                 <p>New branch</p>
                 <p>New branch</p>
+                <p>developer/login_commit</p>
 
             </div>
         </div>
